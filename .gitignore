@@ -61,3 +61,6 @@ target/
 test/test_index.txt
 
 index_file
+
+# Text test file with all the keys
+everywordbot_copy.txt

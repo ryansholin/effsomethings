@@ -1,1 +1,0 @@
-web: python everywordbot.py --consumer_key=lL3Op75xybRTWWzydUCn2vE52 --consumer_secret=2a9Cc5oKVV1PjUkkGZEvxLk4HRoGG8yhEqv7qNdamsfA1EQiBs --access_token=776943471412310017-dNqJ38mNYhRexm9BBfwhhQNIaHME4de --token_secret=nx9X7Fb97kgeMO1ZUvtNhXzE6u009aa17E8KtYWKEUppn --source_file=somethings.txt --index_file=somethingsIndex.txt
